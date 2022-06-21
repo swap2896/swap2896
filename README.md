@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swapnil Kalra
-- :eyes: I'm currently a Computer Science Enthusiast working at Micro Focus Bangalore.
+- :eyes: I'm a Computer Science Enthusiast currently working at Micro Focus Bangalore.
 - :mailbox: Reach me on LinkedIn : https://www.linkedin.com/in/swapnil-kalra-650812141/
 - 🔗: https://swap2896.github.io/
 
